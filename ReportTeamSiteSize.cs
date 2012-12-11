@@ -12,7 +12,7 @@ using Microsoft.SharePoint.WebControls;
 using Logger;
 #endregion
 
-namespace Intranet.TeamSiteReports
+namespace TeamSiteReports
 {
 
 	/// <summary>
